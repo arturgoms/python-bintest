@@ -1,0 +1,8 @@
+
+examples/output/.scripttest-test-dir.txt
+*.egg
+*.pyc
+build/
+dist/
+bintest.egg-info/
+poetry.lock

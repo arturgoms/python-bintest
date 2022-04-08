@@ -1,0 +1,15 @@
+---
+
+# Example test file
+# required: bin, output
+# everything in the middle will be passing as paramters to the binary: only the values
+
+SimpleCAT:
+  bin: /bin/cat
+  path: /Users/artur.gomes/projects/pybintest/examples/test.txt
+  output: "test\n"
+
+SimpleCATFail:
+  bin: /bin/cat
+  path: /Users/artur.gomes/projects/pybintest/examples/test.txt
+  output: "not test\n"
