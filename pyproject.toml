@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "bintest"
-version = "0.2.0"
+version = "0.3.0"
 description = "python library for test binarys"
 authors = ["Artur Gomes <contato@arturgomes.com.br>"]
 license = "MIT"
